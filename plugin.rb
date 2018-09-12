@@ -3,7 +3,7 @@
 # version: 0.0.1
 # authors: Vitor
 
-gem 'omniauth-sebraeid'
+gem 'omniauth-sebraeid', 0.1
 
 
 class SebraeIDAuthenticator < ::Auth::Authenticator
