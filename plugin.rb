@@ -3,7 +3,7 @@
 # version: 0.0.1
 # authors: Vitor
 
-gem 'omniauth-sebraeid', '0.1'
+gem 'omniauth-vkontakte', '1.3.3'
 
 
 class SebraeIDAuthenticator < ::Auth::Authenticator
